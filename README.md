@@ -10,5 +10,18 @@ Machine Learning is the field of study that gives computers the capability to le
        Dimensionality Reduction
 3. Reinforcement Learning
 # TASK 1 [MOVIE GENRE CLASSIFICATION]
+Create a machine learning model that can predict the genre of a movie based on its plot summary or other textual information. You can use techniques like TF-IDF or word embeddings with classifiers such as Naive Bayes, Logistic Regression, or Support Vector Machines.
+# STEPS INVOLVED 
+1. Importing necessary libraries
+2. Load training data
+3. Cleaning the data
+4. Split the data into training and validation sets
+5. Preprocess the data (TF-IDF vectorization)
+6. Train a Logistic Regression classifier with optimized hyperparameters
+7. Predict on the validation set
+8. Load the test data for prediction and clean the data
+9. Make predictions on the test data.
+# OUTPUT 
+
 
    
