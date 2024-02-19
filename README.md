@@ -24,7 +24,9 @@ Create a machine learning model that can predict the genre of a movie based on i
 9. Make predictions on the test data.
 # OUTPUT 
 ![Screenshot (346)](https://github.com/V-Deepiga/codesoft_ml/assets/157875895/56af97fb-778c-4320-bcb3-0a73dfb2a60e)
+
 ![Screenshot (347)](https://github.com/V-Deepiga/codesoft_ml/assets/157875895/b0576325-9932-4308-952a-8f1ef0fcfa47)
+
 ![Screenshot (351)](https://github.com/V-Deepiga/codesoft_ml/assets/157875895/e25fcca5-09fb-46f7-bff8-84eb9bdb51e3)
 
 # TASK 2 [CREDIT CARD FRAUD DETECTION]
@@ -40,9 +42,35 @@ Build a model to detect fraudulent credit card transactions. Use a dataset conta
 8. Evaluate the model
 # OUTPUT
 USING LOGISTIC REGRESSION :
+
 ![Screenshot (348)](https://github.com/V-Deepiga/codesoft_ml/assets/157875895/251ad7db-ccde-4cb2-877d-84879e5a7be7)
+
 ![Screenshot (349)](https://github.com/V-Deepiga/codesoft_ml/assets/157875895/77fb422a-2563-41df-b2fc-ab1e078f451c)
+
 ![Screenshot (350)](https://github.com/V-Deepiga/codesoft_ml/assets/157875895/70c4c904-6566-4c0a-9979-523908ee14ad)
+
 USING DECISION TREE :
+
 ![Screenshot (344)](https://github.com/V-Deepiga/codesoft_ml/assets/157875895/2838fe50-59ae-4655-add2-d88c7868afa4)
+
 ![Screenshot (345)](https://github.com/V-Deepiga/codesoft_ml/assets/157875895/170bd110-01ce-4030-a23e-db6b5b3db238)
+
+# TASK 3 [CUSTOMER CHURN PREDICTION]
+Develop a model to predict customer churn for a subscriptionbased service or business. Use historical customer data, including features like usage behavior and customer demographics, and try algorithms like Logistic Regression, Random Forests, or Gradient Boosting to predict churn.
+# STEPS INVOLVED
+1. Importing necessary libraries and dataset
+2. Data cleaning and spliting
+3. Model training and evaluation using logistic regression, random forests, gradient boosting.
+4. Plot ROC curve
+5. Make the predictions for the input data collected.
+# OUTPUT 
+
+![Screenshot (352)](https://github.com/V-Deepiga/codesoft_ml/assets/157875895/b0633e48-57b0-4054-802c-949fdef06c10)
+
+![Screenshot (353)](https://github.com/V-Deepiga/codesoft_ml/assets/157875895/8ed71394-a357-4d34-abcf-e0682290f3b6)
+
+![Screenshot (354)](https://github.com/V-Deepiga/codesoft_ml/assets/157875895/76259282-780d-4c92-a039-379d8aabf4a6)
+
+
+
+
