@@ -38,3 +38,11 @@ Build a model to detect fraudulent credit card transactions. Use a dataset conta
 6. Predictions on the test set, Adjusting threshold to improve precision and recall.
 7. Visualization of model
 8. Evaluate the model
+# OUTPUT
+USING LOGISTIC REGRESSION :
+![Screenshot (348)](https://github.com/V-Deepiga/codesoft_ml/assets/157875895/251ad7db-ccde-4cb2-877d-84879e5a7be7)
+![Screenshot (349)](https://github.com/V-Deepiga/codesoft_ml/assets/157875895/77fb422a-2563-41df-b2fc-ab1e078f451c)
+![Screenshot (350)](https://github.com/V-Deepiga/codesoft_ml/assets/157875895/70c4c904-6566-4c0a-9979-523908ee14ad)
+USING DECISION TREE :
+![Screenshot (344)](https://github.com/V-Deepiga/codesoft_ml/assets/157875895/2838fe50-59ae-4655-add2-d88c7868afa4)
+![Screenshot (345)](https://github.com/V-Deepiga/codesoft_ml/assets/157875895/170bd110-01ce-4030-a23e-db6b5b3db238)
