@@ -71,6 +71,23 @@ Develop a model to predict customer churn for a subscriptionbased service or bus
 
 ![Screenshot (354)](https://github.com/V-Deepiga/codesoft_ml/assets/157875895/76259282-780d-4c92-a039-379d8aabf4a6)
 
+# TASK 4 [SPAM SMS DETECTION ]
+Build an AI model that can classify SMS messages as spam or legitimate. Use techniques like TF-IDF or word embeddings with classifiers like Naive Bayes, Logistic Regression, or Support Vector Machines to identify spam messages.
+# STEPS INVOLVED :
+1. Importing necessary libraries and dataset
+2. Data cleaning and spliting
+3. Model training and evaluation using logistic regression, naive bayes and svm.
+4. Plotting the accuracy of each model
+5. Predicting on new data using the best model.
+# OUTPUT 
+
+![Screenshot (379)](https://github.com/V-Deepiga/codesoft_ml/assets/157875895/718d1c4d-8880-4487-977e-9bdf0a193dd0)
+
+![Screenshot (380)](https://github.com/V-Deepiga/codesoft_ml/assets/157875895/8109d2ee-4740-482d-b2a1-38bdd46047af)
+
+![Screenshot (381)](https://github.com/V-Deepiga/codesoft_ml/assets/157875895/e6b2d40d-1689-4627-8d68-4e2a0a0ba30c)
+
+
 
 
 
