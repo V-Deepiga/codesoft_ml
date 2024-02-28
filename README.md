@@ -1,4 +1,4 @@
-# codesoft_ml
+# codsoft_ml
 # MACHINE LEARNING
 Machine Learning is the field of study that gives computers the capability to learn without being explicitly programmed. It is concerned with the development and study of statistical algorithms that can learn from data and generalize to unseen data, and thus perform tasks without explicit instructions.
 # TYPES OF ML ALGORITHMS
